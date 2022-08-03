@@ -1,2 +1,2 @@
-email :
-gitID :
+email : apfjs23@naver.com
+gitID : apfjs23
